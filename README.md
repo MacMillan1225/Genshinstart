@@ -6,6 +6,11 @@
 > 不要紧，从今天起，你有一个绝佳的机会，使用 “原神，启动！”小组件，向你的亲友推广
 > 原神罢！
 
+演示：
+
+![演示](https://github.com/MacMillan1225/Genshinstart/blob/master/2023-09-06%2021-25-49.gif?raw=true)
+
+
 ### 食用方式
 
 ---
